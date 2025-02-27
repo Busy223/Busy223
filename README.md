@@ -1,7 +1,7 @@
 ## Bonjour je suis Lassana Sissoko 👋
 
 ## Introduction
-Actuellement en formation de Développeur Web/Web Mobile, je suis passionné(e) par l’univers du développement et motivé(e) à relever de nouveaux défis. Je suis prêt(e) à apprendre, mettre en pratique mes compétences techniques et découvrir de nouvelles technologies, tout en travaillant aux côtés de professionnels expérimentés.
+Actuellement en formation de Développeur Web/Web Mobile, je suis passionné par l’univers du développement et motivé à relever de nouveaux défis. Je suis prêt à apprendre, mettre en pratique mes compétences techniques et découvrir de nouvelles technologies, tout en travaillant aux côtés de professionnels expérimentés.
 
 
 ## Qualités
