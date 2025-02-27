@@ -43,8 +43,12 @@ Actuellement en formation de Développeur Web/Web Mobile, je suis passionné(e) 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Busy223&theme=radical)
 
-![Snake animation](https://github.com/Busy223/Busy223/blob/output/github-contribution-grid-snake.svg)
 
+![Snake animation](https://github.com/Busy223/Busy223/blob/output/github-contribution-grid-snake.svg)
+https://github.com/Busy223/Busy223/blob/output/github-contribution-grid-snake.svg
+
+
+![Snake animation](https://raw.githubusercontent.com/Busy223/Busy223/output/github-contribution-grid-snake.svg)
 
 
 
