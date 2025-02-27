@@ -48,5 +48,5 @@ Actuellement en formation de Développeur Web/Web Mobile, je suis passionné(e) 
 
 
 ## Contact
-- Email : [ton-email@example.com]
-- LinkedIn : [ton-profil-linkedin]
+- Email : [las.sissoko27@gmail.com]
+- LinkedIn : [https://www.linkedin.com/in/lassana-sissoko/]
